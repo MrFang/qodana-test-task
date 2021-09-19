@@ -6,9 +6,4 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 public class Project {
     public String name;
     public String id;
-
-    public Project setId(String id) {
-        this.id = id;
-        return this;
-    }
 }

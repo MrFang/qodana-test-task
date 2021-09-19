@@ -9,7 +9,7 @@ repositories {
 }
 
 dependencies {
-    implementation("com.fasterxml.jackson.core:jackson-databind:2.12.4")
+    implementation("com.fasterxml.jackson.core:jackson-databind:2.12.5")
     implementation("io.github.cdimascio:dotenv-java:2.2.0")
 }
 
